@@ -16,6 +16,11 @@
       "name": "Jonas Enge",
       "email": "jonas.enge@gmail.com",
       "url": "https://github.com/maccyber"
+    },
+    {
+      "name": "minhhn2910",
+      "email": "",
+      "url": "https://github.com/minhhn"
     }
   ],
   "main": "index.js",
@@ -43,12 +48,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r.git"
+    "url": "git+https://github.com/minhhn2910/b5-johnson-120-ipip-neo-pi-r.git"
   },
   "bugs": {
-    "url": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/issues"
+    "url": "https://github.com/minhhn2910/b5-johnson-120-ipip-neo-pi-r/issues"
   },
-  "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
+  "homepage": "https://github.com/minhhn2910/b5-johnson-120-ipip-neo-pi-r#readme",
   "devDependencies": {
     "ava": "3.15.0",
     "coveralls": "3.1.1",
