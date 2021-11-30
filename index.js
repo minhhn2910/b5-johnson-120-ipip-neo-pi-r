@@ -1,11 +1,11 @@
 const { knuthShuffle } = require('knuth-shuffle')
 const languages = require('./data/languages.json')
-
+//sort descending
 function languageSort (a, b) {
-  if (a.text < b.text) {
+  if (a.text > b.text) {
     return -1
   }
-  if (a.text > b.text) {
+  if (a.text < b.text) {
     return 1
   }
   return 0
